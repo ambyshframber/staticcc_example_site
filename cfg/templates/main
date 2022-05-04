@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>##TITLE##</title>
+</head>
+<body>
+<div class="main">
+##BODY##
+</div>
+<div class="footer">
+##FOOT##
+</div>
+</body>
+</html>
